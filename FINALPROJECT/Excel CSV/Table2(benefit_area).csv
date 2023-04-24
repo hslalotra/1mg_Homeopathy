@@ -1,0 +1,726 @@
+,Name,benefit_area
+0,Dr Willmar Schwabe India Berberis Aquifolium Mother Tincture Q,"{'eye', 'legs', 'skin', 'face', 'eyes', 'ear'}"
+1,SBL Arnica Montana Herbal Shampoo with TJC,{'hair'}
+2,SBL Jaborandi Hair Oil,{'hair'}
+3,SBL Cineraria Maritima 10% Eye Drop,set()
+4,Bjain Guatteria Gaumeri Drop,{'blood'}
+5,SBL Sarracenia Purpurea Dilution 1000 CH,"{'skin', 'eye', 'eyes'}"
+6,Dr. Reckeweg Calcarea Phosphorica Biochemic Tablet 6X,{'bone'}
+7,Dr. Reckeweg R41 Sexual Neurasthenia Drop,set()
+8,Dr. Reckeweg R89 Hair Care Drop,{'hair'}
+9,Dr Willmar Schwabe India Thyroidinum Trituration Tablet 3X,{'thyroid'}
+10,SBL Stobal Cough Syrup,set()
+11,Dr. Reckeweg Berberis Vul Mother Tincture Q,"{'skin', 'legs', 'kidney'}"
+12,Dr. Reckeweg R73 Joint Pain Drop,{'bone'}
+13,Bakson's Y-Lax Tablet,set()
+14,Dr Willmar Schwabe India Damiaplant Drop,set()
+15,Bakson's Aller Aid Tablet,{'ear'}
+16,SBL Scalptone Tablet,{'hair'}
+17,SBL Clearstone Drop,{'kidney'}
+18,Bhargava Spondin Drop,set()
+19,Bakson's Aller Aid Tablet,{'ear'}
+20,Dr. Reckeweg R13 Hemorrhoidal Drop,set()
+21,SBL Nux Vomica Dilution 30 CH,"{'eye', 'eyes'}"
+22,Dr. Reckeweg R5 Stomach and Digestion Drop,{'stomach'}
+23,Bakson's Throat Aid Tablet,"{'ear', 'nose'}"
+24,SBL Berberis Vulgaris Mother Tincture Q,"{'skin', 'ear', 'legs', 'kidney'}"
+25,SBL Berberis Aquifolium Gel,"{'skin', 'ear', 'face'}"
+26,SBL Arnica Montana Dilution 200 CH,"{'eye', 'eyes'}"
+27,SBL Tonicard Gold Drop Homeopathic Medicine,set()
+28,SBL Kali Phosphoricum Biochemic Tablet 6X,"{'skin', 'blood'}"
+29,SBL Calcarea Fluorica Biochemic Tablet 6X,"{'thyroid', 'skin', 'bone', 'ear', 'blood'}"
+30,Bakson's Homoeopathic Formula 'D' Tablet,"{'skin', 'bone'}"
+31,Dr. Reckeweg R40 Diabetes Drop Homeopathic Medicine,"{'liver', 'blood'}"
+32,SBL Syzygium Jambolanum Mother Tincture Q,"{'skin', 'blood', 'stomach'}"
+33,Dr. Reckeweg R25 Prostatitis Drop,set()
+34,Dr. Reckeweg R71 Sciatica Drop,set()
+35,Bakson's Throat Aid Tablet,"{'ear', 'nose'}"
+36,Dr. Reckeweg R59 Weight Loss,{'thyroid'}
+37,Dr. Reckeweg R7 Liver and Gallbladder Drop,{'liver'}
+38,SBL Calcarea Phosphorica Biochemic Tablet 6X,{'bone'}
+39,Dr. Reckeweg R11 Rheumatism Drop,{'bone'}
+40,SBL Arsenicum Album Dilution 30 CH,set()
+41,Dr. Reckeweg R65 Psoriasis Drop,{'skin'}
+42,SBL Prostonum Drop,set()
+43,Dr. Reckeweg R42 Varicosis Drop,{'legs'}
+44,SBL Nux Vomica Dilution 200 CH,"{'eye', 'eyes'}"
+45,SBL Jaborandi Mother Tincture Q,"{'hair', 'thyroid'}"
+46,Dr. Reckeweg R49 Sinus Drop,set()
+47,Dr. Reckeweg Kali Phosphoricum Biochemic Tablet 6X,set()
+48,SBL Liv T Tonic,set()
+49,Bakson's Rheum Aid Tablet,set()
+50,SBL Thuja Occidentalis Dilution 200 CH,"{'skin', 'face'}"
+51,SBL Bio-Combination 6 Tablet,{'nose'}
+52,SBL Alfalfa Tonic with Ginseng,set()
+53,Dr. Reckeweg R84 Inhalent Allergy Drop,set()
+54,SBL Chelidonium Majus Mother Tincture Q,"{'eye', 'skin', 'liver', 'eyes', 'stomach'}"
+55,Dr. Reckeweg R82 Anti Fungal Drop,set()
+56,Bakson's Homoeopathic Formula 'D' Tablet,"{'skin', 'bone'}"
+57,SBL Dibonil Drop,set()
+58,Bakson's Pilgo Tablet,set()
+59,Dr. Reckeweg R9 Cough Drop,{'nose'}
+60,SBL Arnica Montana Dilution 30 CH,"{'eye', 'eyes'}"
+61,SBL Rhus Toxicodendron Dilution 200 CH,set()
+62,SBL Hydrastis Canadensis Mother Tincture Q,{'stomach'}
+63,Allen A84 Lipoma Drop,set()
+64,SBL Damiagra Forte Drop,set()
+65,Dr. Reckeweg R27 Renal Calculi Drop,{'kidney'}
+66,Dr. Reckeweg Ashwagandha Mother Tincture Q,set()
+67,Dr Willmar Schwabe India Cydonia Vulgaris Mother Tincture Q,{'stomach'}
+68,Dr. Reckeweg R16 Migraine and Neuralgia Drop,set()
+69,SBL Bryonia Alba Dilution 30 CH,set()
+70,SBL FP-Tabs Tablet,set()
+71,SBL Berberis Aquifolium Mother Tincture Q,"{'eye', 'legs', 'skin', 'face', 'eyes', 'ear'}"
+72,Bakson's Pilgo Tablet,set()
+73,SBL Belladonna Dilution 30 CH,{'stomach'}
+74,SBL Homeocal Tablet,set()
+75,SBL Bio-Combination 25 Tablet,"{'ear', 'stomach'}"
+76,SBL Sabal Serrulata Mother Tincture Q,set()
+77,SBL Arnica Montana Mother Tincture Q,"{'eye', 'eyes'}"
+78,Bakson's Vitamin D Plus Tablet,"{'bone', 'thyroid'}"
+79,Dr. Reckeweg Aalserum 7X Mother Tincture Q,"{'ear', 'liver', 'blood', 'kidney'}"
+80,SBL Cineraria Maritima Euphrasia Eye Drop,{'eye'}
+81,SBL Magnesia Phosphorica Biochemic Tablet 6X,"{'ear', 'hand', 'blood'}"
+82,SBL Lycopodium Clavatum Dilution 30 CH,"{'liver', 'kidney'}"
+83,SBL Calendula Cream,{'face'}
+84,Dr Willmar Schwabe Germany Biofungin Syrup,"{'legs', 'hand', 'bone', 'blood'}"
+85,Dr. Reckeweg R85 High Blood Pressure Drop,{'blood'}
+86,SBL Crataegus Oxyacantha Q Mother Tincture,"{'skin', 'ear'}"
+87,Dr Willmar Schwabe India Alpha-Coff Cough Syrup,set()
+88,New Life NL-2 Blood Urea Creatinin Drop,"{'blood', 'kidney'}"
+89,SBL Sulphur Dilution 200 CH,"{'skin', 'liver', 'stomach'}"
+90,SBL Aconitum Napellus Dilution 30 CH,"{'eye', 'nose', 'face', 'eyes', 'ear'}"
+91,Bakson's Gastro Aid Tablet,set()
+92,SBL Rauwolfia Serpentina Mother Tincture Q,{'blood'}
+93,SBL Bryonia Alba Dilution 200 CH,set()
+94,SBL Five Phos Tablet 6X,set()
+95,SBL Nixocid Tablet,"{'ear', 'stomach'}"
+96,Dr Willmar Schwabe India Cydonia Vulgaris Dilution 30 CH,set()
+97,Bakson's Sinus Aid Tablet,set()
+98,SBL Rite-Hite Tablet,{'ear'}
+99,SBL Bio-Combination 21 Tablet,set()
+100,SBL Rhus Toxicodendron Dilution 30 CH,set()
+101,ADEL 4 Apo-Rheum Drop,set()
+102,SBL Alfalfa Malt Energy Stimulant Delicious Chocolate,set()
+103,Dr. Reckeweg R1 Inflammation Drop,set()
+104,SBL Diaboherb Capsule,set()
+105,SBL Gymnema Sylvestre Mother Tincture Q,"{'liver', 'blood'}"
+106,Dr Willmar Schwabe India Dizester Digestive Tonic Sugar Free,set()
+107,Bakson's Biocombination 17 Tablet,set()
+108,SBL Carbo Vegetabilis Dilution 30 CH,"{'skin', 'liver', 'stomach'}"
+109,Dr. Reckeweg R2 Essentia Aurea-Gold Drop,{'ear'}
+110,SBL Ferrum Phosphoricum Biochemic Tablet 6X,"{'nose', 'blood'}"
+111,Dr. Reckeweg R95 Alfalfa Tonic,{'bone'}
+112,SBL Thuja Ointment,{'skin'}
+113,New Life Bach Flower Rescue Remedy 30,set()
+114,SBL Caladium Seguinum Dilution 30 CH,{'stomach'}
+115,SBL Tribulus Terrestris Mother Tincture Q,{'blood'}
+116,SBL Belladonna Dilution 200 CH,{'stomach'}
+117,SBL Bio-Combination 20 Tablet,"{'skin', 'face'}"
+118,ADEL 51 Psy-Stabil Drop,"{'ear', 'thyroid', 'stomach'}"
+119,SBL Passiflora Incarnata Mother Tincture Q,set()
+120,Dr. Reckeweg Vita-C 15 Nerve Tonic,set()
+121,SBL Echinacea Angustifolia Mother Tincture Q,"{'ear', 'nose', 'stomach'}"
+122,SBL Phytolacca Berry Mother Tincture Q,set()
+123,SBL Calendula Officinalis Mother Tincture Q,set()
+124,SBL Allium Cepa Dilution 30 CH,"{'skin', 'ear', 'nose', 'eye'}"
+125,SBL Lycopodium Clavatum Dilution 200 CH,"{'liver', 'kidney'}"
+126,SBL Drops No. 8 ( For Allergic Rhinitis),set()
+127,Bakson's Tonsil Aid Tablet,set()
+128,SBL Urtica Urens Mother Tincture Q,{'skin'}
+129,SBL Tranquil Tablet,{'ear'}
+130,SBL Bio-Combination 19 Tablet,"{'skin', 'hand'}"
+131,SBL Damiana Mother Tincture Q,{'stomach'}
+132,SBL Sulphur Dilution 30 CH,"{'skin', 'liver', 'stomach'}"
+133,Lord's Ylo Tablet,set()
+134,SBL FP Ointment,{'stomach'}
+135,SBL Hepar Sulphur Dilution 200 CH,"{'skin', 'ear', 'hand'}"
+136,Bakson's Hite Aid Tablet,set()
+137,Bakson's Gastro Aid Tablet,set()
+138,Medisynth Jondila Sugar Free Syrup,{'liver'}
+139,Dr. Reckeweg R3 Heart Drop,{'ear'}
+140,Dr. Reckeweg V-C 15 Forte Tonic,{'blood'}
+141,SBL Terminalia Arjuna Mother Tincture Q,{'ear'}
+142,SBL Euphrasia 10% Eye Drop,"{'blood', 'eye', 'eyes'}"
+143,Dr Willmar Schwabe India Sabal Serrulata Mother Tincture Q,set()
+144,Dr Willmar Schwabe India Alpha-Liv Liver Tonic,{'liver'}
+145,SBL Bio-Combination 17 Tablet,set()
+146,Essentia Aurea Gold Drop,{'ear'}
+147,SBL Carbo Vegetabilis Dilution 200 CH,"{'skin', 'liver', 'stomach'}"
+148,SBL Arnica Gel,set()
+149,Allen Derma Plus Cream,set()
+150,Dr Willmar Schwabe India Arnica Montana Mother Tincture Q,set()
+151,ADEL 28 Plevent Drop,"{'ear', 'blood'}"
+152,SBL Aspidosperma Quebracho Mother Tincture Q,{'blood'}
+153,Dr Willmar Schwabe India Chelidonium Majus Mother Tincture Q,"{'eye', 'skin', 'liver', 'eyes', 'stomach'}"
+154,Dr Willmar Schwabe India Munostim Globules,set()
+155,ADEL 18 Glucorect Drop,{'blood'}
+156,SBL Pulsatilla Nigricans Dilution 200 CH,{'ear'}
+157,SBL Carduus Marianus Mother Tincture Q,"{'liver', 'eye', 'eyes'}"
+158,SBL Cephalandra Indica Mother Tincture Q,"{'eye', 'kidney', 'skin', 'eyes', 'blood'}"
+159,SBL Histaminum Dilution 200 CH,{'skin'}
+160,SBL Sabal Serrulata Dilution 30 CH,{'stomach'}
+161,SBL Drops No. 4 (For BP),"{'ear', 'blood'}"
+162,Dr. Reckeweg R6 Influenza Drop,set()
+163,SBL Cholesterinum Trituration Tablet 3X,{'liver'}
+164,SBL Nixocid Syrup,"{'ear', 'stomach'}"
+165,New Life Bach Flower Rescue Remedy 30,set()
+166,Dr Willmar Schwabe India Withania Somnifera (Aswagandha) Mother Tincture Q,{'skin'}
+167,SBL Arsenicum Album Dilution 200 CH,set()
+168,SBL Natrum Muriaticum Dilution 30 CH,"{'skin', 'ear', 'blood'}"
+169,Dr Willmar Schwabe India Sabal Pentarkan Drop,set()
+170,ADEL 17 Glautaract Drop,"{'eye', 'blood'}"
+171,SBL Ginseng Mother Tincture Q,set()
+172,SBL Avena Sativa Mother Tincture Q,set()
+173,ADEL 9 Cri-Regen Drop,{'hair'}
+174,SBL Thuja Occidentalis Mother Tincture Q,{'skin'}
+175,SBL Bio-Combination 28 Tablet,"{'ear', 'nose', 'kidney'}"
+176,Adven Osteodin-Z Oral Drops (25ml Each),set()
+177,SBL Alfalfa Tonic with Ginseng,set()
+178,SBL Calcarea Carbonica Dilution 200 CH,"{'ear', 'nose'}"
+179,SBL Ginkgo Biloba Mother Tincture Q,{'skin'}
+180,SBL Gelsemium Sempervirens Dilution 30 CH,"{'eye', 'blood'}"
+181,SBL Acidum Phosphoricum Mother Tincture Q,"{'hair', 'eye', 'eyes', 'stomach'}"
+182,SBL Hamamelis Virginica Mother Tincture Q,{'blood'}
+183,SBL Kali Muriaticum Biochemic Tablet 6X,"{'skin', 'ear', 'face'}"
+184,SBL Histaminum Dilution 30 CH,{'skin'}
+185,SBL Calcarea Fluorica Biochemic Tablet 12X,"{'thyroid', 'skin', 'bone', 'ear', 'blood'}"
+186,SBL Alfalfa Mother Tincture Q,{'kidney'}
+187,Bakson's Spondy Aid Drop,set()
+188,SBL Vertefine Drop,set()
+189,Dr Willmar Schwabe India Berberis Pentarkan Tablet,{'blood'}
+190,Dr Willmar Schwabe India Jaborandi Mother Tincture Q,"{'hair', 'thyroid'}"
+191,SBL Swertia Chirata Mother Tincture Q,"{'liver', 'stomach'}"
+192,Dr Willmar Schwabe India Phytolacca Berry Mother Tincture Q,{'liver'}
+193,Dr Willmar Schwabe India Topi Thuja Cream,set()
+194,SBL Mercurius Solubilis Dilution 30 CH,"{'hand', 'eye', 'nose', 'eyes', 'stomach', 'hair', 'bone', 'blood'}"
+195,SBL Antimonium Tartaricum Dilution 30 CH,{'ear'}
+196,SBL Withania Somnifera Mother Tincture Q,{'blood'}
+197,SBL Hypericum Perforatum Dilution 200 CH,set()
+198,SBL Pothos Foetidus Mother Tincture Q,{'skin'}
+199,SBL Alfalfa Tonic Paediatric,set()
+200,SBL Stobal Cough Syrup,set()
+201,SBL Drops No. 3 (For UTI),"{'ear', 'blood', 'kidney'}"
+202,SBL Causticum Dilution 200 CH,"{'eye', 'kidney', 'nose', 'skin', 'liver', 'eyes'}"
+203,SBL Cantharis Mother Tincture Q,"{'skin', 'kidney'}"
+204,Allen A87 Creatinine & Blood Urea Drop,{'kidney'}
+205,SBL Aesculus Ointment,{'blood'}
+206,Dr Willmar Schwabe India Passiflora Incarnata Mother Tincture Q,"{'eye', 'eyes'}"
+207,SBL Ruta Graveolens Dilution 200 CH,"{'bone', 'eye', 'eyes'}"
+208,SBL Justicia Adhatoda Mother Tincture Q,set()
+209,SBL Apis Mellifica Dilution 30 CH,"{'face', 'eye'}"
+210,SBL Ferrumsip Syrup,set()
+211,SBL Natrum Muriaticum Biochemic Tablet 6X,"{'skin', 'ear', 'blood'}"
+212,Dr Willmar Schwabe India Hydrastis Canadensis Mother Tincture Q,"{'eye', 'nose', 'skin', 'eyes', 'ear'}"
+213,ADEL 2 Apo-Ham Drop,set()
+214,SBL Silicea Dilution 200 CH,"{'skin', 'bone'}"
+215,SBL Agnus Castus Dilution 30 CH,set()
+216,SBL Pulsatilla Nigricans Dilution 30 CH,{'ear'}
+217,SBL Hepar Sulphur Dilution 30 CH,"{'skin', 'ear', 'hand'}"
+218,SBL Natrum Phosphoricum Biochemic Tablet 6X,"{'ear', 'eye'}"
+219,Bhargava Tumorin Drop,{'thyroid'}
+220,SBL Wiesbaden Dilution 30 CH,{'hair'}
+221,SBL AF-Tabs Tablet,set()
+222,SBL Drops No. 1 (For Hair Care),{'hair'}
+223,Dr Willmar Schwabe India Berberis Vulgaris Mother Tincture Q,"{'skin', 'legs', 'kidney'}"
+224,Bakson's Wart Aid Tablet,"{'eye', 'face', 'nose'}"
+225,Dr Willmar Schwabe India Nux Vomica Dilution 30 CH,"{'eye', 'eyes'}"
+226,SBL AT-Tabs Ant- Traumatic Tablet,set()
+227,Dr Willmar Schwabe India Aesculus Pentarkan Drop,set()
+228,ADEL 11 Defaeton Drop,set()
+229,SBL Ocimum Sanctum Mother Tincture Q,{'skin'}
+230,Dr Willmar Schwabe India Ginseng Mother Tincture Q,set()
+231,Bjain Syzygium Jambolanum Mother Tincture Q,"{'skin', 'blood', 'stomach'}"
+232,Dr. Reckeweg Chelidonium Maj Mother Tincture Q,"{'liver', 'eye', 'eyes', 'stomach'}"
+233,Bakson's Hair Color Dark Brown Sachet,"{'hair', 'skin'}"
+234,ADEL 36 Pollon Drop,{'blood'}
+235,Bakson B22 Sinus Drop,{'face'}
+236,Dr Willmar Schwabe India Alpha - MP Drop,set()
+237,SBL Silicea Biochemic Tablet 6X,"{'skin', 'bone'}"
+238,Boericke and Tafel Anti-Dandruff Shampoo,"{'hair', 'eye', 'eyes'}"
+239,Dr Willmar Schwabe India Topi Berberis Aquifolium Cream,set()
+240,Dr Willmar Schwabe India Crataegus Oxyacantha Mother Tincture Q,"{'skin', 'ear', 'blood'}"
+241,SBL Thuja Occidentalis Dilution 30 CH,"{'skin', 'face'}"
+242,SBL Fraxinus Americana Mother Tincture Q,set()
+243,Dr Willmar Schwabe India Rauwolfia Serpentina Mother Tincture Q,{'blood'}
+244,ADEL 6 Apo-Strum Drop,"{'thyroid', 'kidney', 'liver', 'ear', 'blood'}"
+245,SBL Silk N Stay Antiseptic Calendula Soap,"{'skin', 'ear', 'face'}"
+246,SBL Blatta Orientalis Mother Tincture Q,set()
+247,ADEL 66 Toxex Drop,"{'liver', 'nose'}"
+248,Bhargava Garcinia Cambogia Drop,set()
+249,ADEL 21 Proscenat Drop,{'hair'}
+250,Dr Willmar Schwabe India Rauwolfia Serpentina Tablet 1X,"{'liver', 'blood'}"
+251,German's No Piles Care and Cure Drop,set()
+252,Boericke and Tafel Glow & Fairness Soap,set()
+253,SBL Drops No. 6 (For Joint Pain),set()
+254,Bakson's Rheum Aid Tablet,set()
+255,ADEL 25 Somcupin Drop,set()
+256,SBL Cineraria Maritima Eye Drops Free From Alcohol,"{'eyes', 'eye', 'blood'}"
+257,Dr Willmar Schwabe India Syzygium Jambolanum Trituration Tablet 1X,"{'skin', 'blood', 'stomach'}"
+258,SBL Nuphar Lutea Mother Tincture Q,"{'skin', 'ear', 'stomach'}"
+259,ADEL 5 Apo-Stom Drop,"{'ear', 'liver', 'stomach'}"
+260,SBL Hydrangea Arborescens Mother Tincture Q,set()
+261,SBL Calcarea Phosphorica Biochemic Tablet 12X,{'bone'}
+262,Allen A82 Premature Greying Of Hair Drop,{'hair'}
+263,Allen A70 I.B.S.(Irritable Bowel Syndrome) Drop,set()
+264,SBL Allium Sativum Mother Tincture Q,{'ear'}
+265,SBL Chionanthus Virginica Mother Tincture Q,"{'eye', 'liver', 'nose'}"
+266,Bakson's Mig Aid Tablet,{'eye'}
+267,ADEL 44 Venorbis Drop,"{'ear', 'blood'}"
+268,Bakson's Calci Aid Tablet,{'bone'}
+269,SBL Thyroidinum Trituration Tablet 6X,{'thyroid'}
+270,Dr Willmar Schwabe India Thuja Occidentalis Dilution 200 CH,set()
+271,SBL Five Phos A+ Nerve Tonic,set()
+272,Allen Dewarts Cream,set()
+273,SBL Drops No. 7 (For Sinusitis),set()
+274,Bakson's Natrum Sulphuricum Biochemic Tablet 30X,{'liver'}
+275,SBL Yohimbinum Mother Tincture Q,{'blood'}
+276,Bakson's Kali Phosphoricum Biochemic Tablet 30X,set()
+277,SBL Agnus Castus Mother Tincture Q,set()
+278,SBL Kalmegh Syrup,set()
+279,SBL Alfalfa Tonic with Ginseng Sugar Free,set()
+280,SBL Tonsilat Tablet,set()
+281,Allen A15 Indigestion Gas & Acidity Drop,set()
+282,SBL Fucus Vesiculosus Mother Tincture Q,"{'thyroid', 'face'}"
+283,Bakson B69 Sciatica Drop,{'legs'}
+284,Dr Willmar Schwabe India Tribulus Terrestris Mother Tincture Q,{'blood'}
+285,SBL Symphytum Officinale Mother Tincture Q,{'eye'}
+286,Dr Willmar Schwabe India Alfalfa Tonic For Children,set()
+287,SBL Aurum Muriaticum Natronatum Trituration Tablet 3X,{'blood'}
+288,Allen A92 C.K.D.(Chronic Kidney Diseases) Drop,set()
+289,SBL Phytolacca Berry Tablet,set()
+290,SBL Crataegus Oxyacantha Q Mother Tincture,"{'skin', 'ear'}"
+291,Bakson's Diab Aid Drop,set()
+292,ADEL 83 Bronchi-Pertu Syrup,"{'eye', 'nose', 'eyes'}"
+293,Dr Willmar Schwabe India Alpha - TS Drop,set()
+294,SBL Thiosinaminum Trituration Tablet 3X,{'ear'}
+295,Dr Willmar Schwabe India Nisikind Globules,set()
+296,Bakson's Flu Aid Tablet,set()
+297,SBL Sarsaparilla Mother Tincture Q,"{'bone', 'kidney'}"
+298,Dr Willmar Schwabe India Aspidosperma Mother Tincture Q,{'blood'}
+299,Dr Willmar Schwabe India Alpha - Acid Tablet,set()
+300,SBL Cineraria Maritima Eye Drops Free From Alcohol,"{'eyes', 'eye', 'blood'}"
+301,Dr Willmar Schwabe India Nuphar Lutea Mother Tincture Q,{'skin'}
+302,SBL Kali Phosphoricum Biochemic Tablet 12X,"{'skin', 'blood'}"
+303,Dr Willmar Schwabe India Hamamelis Virginica Mother Tincture Q,{'blood'}
+304,SBL Sleeptite Tablet,set()
+305,Dr Willmar Schwabe India Damiana Mother Tincture Q,{'stomach'}
+306,Bakson's Alfalfa Tonic with Ginseng,set()
+307,ADEL 16 Gastul Drop,{'liver'}
+308,SBL Ache-Nil Drop,set()
+309,SBL Gaultheria Procumbens Mother Tincture Q,"{'skin', 'face', 'stomach', 'kidney'}"
+310,SBL Paeonia Officianalis Mother Tincture Q,set()
+311,ADEL 79 Ferrodona Tonic,{'blood'}
+312,Wheezal Eye Bright Eye Drop,"{'ear', 'eye', 'eyes'}"
+313,Dr Willmar Schwabe India Ginseng MT Tablet 1X,set()
+314,Dr. Reckeweg Aspidosperma Mother Tincture Q,{'blood'}
+315,SBL Bio-Combination 10 Tablet,{'blood'}
+316,Dr Willmar Schwabe India Carduus Marianus Mother Tincture Q,"{'liver', 'eye', 'eyes'}"
+317,Dr Willmar Schwabe India Alpha - HA Drop,set()
+318,Bakson's Nasal Aid Spray,set()
+319,ADEL 22 Renelix Drop,set()
+320,Bakson B9 Hemorrhoidal Drop,set()
+321,Hapdco B.Ve. Phos Children Tonic,{'liver'}
+322,Allen Snorid Drop,{'ear'}
+323,Allen Osteofit Tablet,set()
+324,Dr Willmar Schwabe India Alpha - WD Drop,set()
+325,SBL Ceanothus Americanus Mother Tincture Q,"{'liver', 'blood'}"
+326,ADEL 78 Dercut Ointment,"{'skin', 'ear'}"
+327,SBL Cineraria Maritima Euphrasia Eye Drop,{'eye'}
+328,Dr. Reckeweg R4 Diarrhoea Drop,set()
+329,Dr Willmar Schwabe India Kali Phosphoricum Biochemic Tablet 6X,set()
+330,Wheezal Nosoline Nasal Spray,set()
+331,REPL Dr. Advice No.70 Nodules Drop,{'skin'}
+332,Dr Willmar Schwabe India Phytolacca Berry Tablet (4 in 1 Combo Pack) Tablet,{'ear'}
+333,ADEL Acid Phos Mother Tincture Q,"{'hair', 'eye', 'eyes', 'stomach'}"
+334,Allen A90 Ovarian Cysts Drop,set()
+335,Bakson's Beepee Aid Drop,{'blood'}
+336,Bakson's Pelvi Aid Tablet,set()
+337,Bakson's Chrysarobinum Ointment,"{'skin', 'face'}"
+338,Bakson's Gastro Aid Syrup,set()
+339,Allen A02 Anti Fungal Drop,"{'skin', 'ear', 'nose'}"
+340,Wheezal Renal Forte Drop,"{'blood', 'kidney'}"
+341,Bakson's Phytolacca Berry Tablet,{'blood'}
+342,ADEL 73 Mucan Drop,"{'ear', 'liver'}"
+343,SBL Kali Phosphoricum Dilution 30 CH,set()
+344,SBL Drops No. 9 ( For Cough),set()
+345,Dr Willmar Schwabe India Topi Aesculus Cream,set()
+346,Bjain Jaborandi Mother Tincture Q,"{'hair', 'thyroid'}"
+347,ADEL 1 Apo-Dolor Drop,"{'ear', 'legs', 'stomach'}"
+348,SBL Argentum Nitricum Dilution 200 CH,"{'ear', 'eyes', 'eye', 'stomach'}"
+349,Bakson's Acne Aid Tablet,{'skin'}
+350,Bakson B1 Influenza & Fever Drop,set()
+351,Allen A26 Piles Drop,{'blood'}
+352,Rxhomeo Bryonia Alba Pellets 30C,{'ear'}
+353,Bakson's Kof Aid Cough Syrup,{'nose'}
+354,SBL Arsenicum Sulph Flavum Trituration Tablet 3X,set()
+355,Allen A69 Anal Fissures Drop,set()
+356,Bakson's Kali Phosphoricum Biochemic Tablet 3X,set()
+357,Dr Willmar Schwabe India Aurum Muriaticum Natronatum Trituration Tablet 3X,{'blood'}
+358,SBL Solidago Virgaurea Mother Tincture Q,{'kidney'}
+359,Bakson's Natrum Muriaticum Biochemic Tablet 12X,{'blood'}
+360,Allen A44 Hyper Acidity & Ulcer Drop,set()
+361,Bakson B28 Weight Drop,"{'bone', 'thyroid'}"
+362,Hapdco B.Ve. Phos Children Tonic,{'liver'}
+363,Bakson's Sunny Fairness Cream for Women,set()
+364,Bakson's Sunny Fairness Cream for Men,set()
+365,Lord's Cratin Drop,"{'ear', 'kidney'}"
+366,Wheezal Arnica Hair N Scalp Treatment Homeopathic Medicine,"{'hair', 'blood'}"
+367,Bakson's Hair Aid Drop Dual Pack (30ml Each),{'hair'}
+368,SBL Baryta Carbonicum Dilution 30 CH,{'ear'}
+369,New Life NL-4 Gall-B-Tone Drop,"{'skin', 'liver', 'stomach'}"
+370,Bakson's Aloevera Calendula Cream,"{'skin', 'ear'}"
+371,Bakson B16 Vertigo Drop,{'legs'}
+372,ADEL Berberis Vulg Mother Tincture Q,"{'skin', 'legs', 'kidney'}"
+373,SBL Hekla Lava Trituration Tablet 3X,{'bone'}
+374,ADEL Alfalfa Tonic with Ginseng,set()
+375,Wheezal WL40 Varicose Veins Drop,set()
+376,Wheezal WL36 Sciatica & Slip Disc Drop,set()
+377,Rxhomeo Arsenicum Album Pellets 200C,"{'skin', 'ear'}"
+378,Hapdco Ferrocin Drop,set()
+379,Bakson's Arnica Shampoo,"{'hair', 'blood'}"
+380,Allen A39 Anti Obesity Drop,{'thyroid'}
+381,SBL Bovista Dilution 6 CH,"{'ear', 'hand'}"
+382,SBL Aralia Racemosa Mother Tincture Q,set()
+383,ADEL 14 Ferrodona Drop,{'blood'}
+384,Bakson's Compound # 5 Pain Joints Tablet,set()
+385,SBL Lemna Minor Mother Tincture Q,set()
+386,Bakson's Alfavena Malt,set()
+387,Allen A08 Diabetes Drop,"{'skin', 'blood'}"
+388,SBL Rosmarinus Officinalis Dilution 30 CH,{'blood'}
+389,SBL Ratanhia Dilution 200 CH,{'stomach'}
+390,Allen A27 Psoriasis Drop,"{'skin', 'face'}"
+391,SBL Natrum Arsenicum Dilution 30 CH,"{'nose', 'eye', 'eyes'}"
+392,SBL Calcarea Fluorica Biochemic Tablet 3X,"{'thyroid', 'skin', 'bone', 'ear', 'blood'}"
+393,New Life Bach Flower Willow 30,set()
+394,Bakson's Kof Aid Plus Cough Syrup Sugar Free,set()
+395,SBL Rinsout Drop Mouthwash,set()
+396,Bakson's Tense Aid Tablet,set()
+397,Allen A79 Depression Drop,set()
+398,SBL Arnica Montana Herbal Shampoo with TJC,{'hair'}
+399,Bakson B2 Stomach Drop,set()
+400,Allen A50 H.B.P (High Blood Pressure) Drop,"{'ear', 'blood'}"
+401,SBL Agaricus Muscarius Dilution 30 CH,"{'skin', 'ear', 'nose', 'eye'}"
+402,Allen A71 U.T.I. (Urinary Tract Infections) Drop,set()
+403,Rxhomeo Rhus Toxicodendron Pellets 30C,{'ear'}
+404,SBL Histaminum Dilution 1000 CH,{'skin'}
+405,SBL Silicea Dilution 1000 CH,"{'skin', 'bone'}"
+406,Allen A31 Warts Drop,"{'eye', 'face', 'nose'}"
+407,SBL Wormorid Drop,set()
+408,ADEL 43 Cardinorma Drop,"{'ear', 'blood'}"
+409,Bakson's Calm Aid Tablet,set()
+410,SBL Asafoetida Dilution 30 CH,"{'skin', 'ear', 'eye', 'eyes'}"
+411,SBL Medorrhinum Dilution 1000 CH,set()
+412,SBL Pancreatinum Dilution 30 CH,set()
+413,Hapdco Mensol Tonic,{'ear'}
+414,Lord's Yohimbinum Trituration Tablet 3X,{'ear'}
+415,Lord's Ginseng Tablet,"{'ear', 'blood'}"
+416,SBL Utrofyne Syrup,set()
+417,Allen A74 Hormonal Imbalance Drop,set()
+418,ADEL 33 Apo-Oedem Drop,"{'ear', 'hand', 'kidney'}"
+419,Dr Willmar Schwabe India Curcuma Longa Mother Tincture Q,"{'eye', 'skin', 'liver', 'eyes', 'blood'}"
+420,Bakson's Phytolacca Berry Tablet,{'blood'}
+421,Bakson's Worm-C Tablet,{'nose'}
+422,Bjain Berberis Aquifolium Mother Tincture Q,"{'eye', 'legs', 'skin', 'face', 'eyes', 'ear'}"
+423,New Life Pilocin Drop,set()
+424,Allen's Olivallen Body Massage Oil,set()
+425,Allen A77 Stress Drop,set()
+426,Allen Crack Care Cream,"{'skin', 'ear'}"
+427,Hapdco Kalmegh Drop,set()
+428,Allen A67 Back Pain Drop,set()
+429,Allen A68 Immunity Drop,set()
+430,SBL Coca Dilution Homeopathic Medicine 30 CH,{'ear'}
+431,SBL Clematis Erecta Dilution 200 CH,"{'skin', 'eye'}"
+432,Lord's L 161 Sexual Neurasthenia Drop,set()
+433,SBL Uranium Nitricum Dilution 30 CH,"{'eye', 'liver', 'eyes', 'stomach', 'blood'}"
+434,Ralson Remedies Ralnofev Fever Control Drops,{'face'}
+435,Wheezal Sarsa Syrup,"{'ear', 'blood'}"
+436,ADEL Calcarea Fluor Biochemic Tablet 6X,"{'thyroid', 'skin', 'bone', 'ear', 'blood'}"
+437,Hapdco Cineramycin Eye Drop,set()
+438,SBL Carbo Vegetabilis Dilution 1000 CH,"{'skin', 'liver', 'stomach'}"
+439,Allen A19 Joint Pains Drop,"{'ear', 'bone'}"
+440,Haslab Drox 20 Pilovarin Drop,set()
+441,SBL Neem Face Wash,set()
+442,New Life Bach Flower Olive 30,set()
+443,Dr Willmar Schwabe India Calcarea Fluorica Biochemic Tablet 12X,"{'thyroid', 'skin', 'bone', 'ear', 'blood'}"
+444,SBL Psorinum Dilution 200 CH,"{'skin', 'eye', 'eyes'}"
+445,SBL Equisetum Hyemale Mother Tincture Q,"{'ear', 'eye', 'eyes', 'kidney'}"
+446,Dr Willmar Schwabe India Arsenicum Album Dilution CM CH,{'skin'}
+447,German's Fairness Drop,"{'skin', 'blood'}"
+448,Dr Batra's Instant Hair Natural Keratin Hair Building Fibre Black,"{'hair', 'ear', 'eye', 'eyes'}"
+449,Dr Willmar Schwabe India Mercurius Solubilis Dilution 30 CH,"{'hand', 'eye', 'nose', 'eyes', 'stomach', 'hair', 'bone', 'blood'}"
+450,Bakson's Sulphur Ointment,{'skin'}
+451,Dr. Reckeweg Kali Phosphoricum Biochemic Tablet 200X,set()
+452,SBL Ammi Visnaga Mother Tincture Q,set()
+453,Bio India Complex 10 Sleeping Drop,{'blood'}
+454,SBL Phytolacca Berry Dilution 200 CH,{'ear'}
+455,Bakson's Aesculus Ointment,{'blood'}
+456,Wheezal WL57 Anti-Fungal Drop,"{'eye', 'legs', 'skin', 'eyes', 'ear'}"
+457,Dr Willmar Schwabe India Cydonia Vulgaris Dilution 1M,set()
+458,SBL Kali Nitricum Dilution 30 CH,"{'eye', 'eyes'}"
+459,SBL Liv T Tonic,set()
+460,Allen A83 Bed-Wetting Drop,set()
+461,Dr Willmar Schwabe India Muira Puama Mother Tincture Q,set()
+462,ADEL Sabal Serr Mother Tincture Q,set()
+463,SBL Liv-T Paediatric Tonic,set()
+464,Bakson's Super Tonic,set()
+465,ADEL Alfalfa Tonic with Ginseng,set()
+466,Bakson's Kof Aid Plus Cough Syrup,set()
+467,Bakson's Kof Aid Plus Cough Syrup Sugar Free,set()
+468,SBL Anti-Dandruff Shampoo,{'hair'}
+469,Allen A47 Throat Infection Drop,{'ear'}
+470,Bakson B21 Strength Drop,set()
+471,SBL Salix Nigra Mother Tincture Q,"{'skin', 'face', 'nose', 'hair'}"
+472,Boiron Arsenicum Album Pellets 30C,{'skin'}
+473,Bakson B34 Tumour Drop,"{'liver', 'stomach'}"
+474,Medisynth Angio Card Gold Plus Drop,"{'ear', 'blood'}"
+475,Hapdco Fairway Cream,"{'skin', 'face'}"
+476,Bjain Omeo Alfa Alfa Malt Energy Booster,"{'skin', 'bone'}"
+477,Hapdco Pilodex Ointment,set()
+478,Bakson B49 Astha Drop,set()
+479,ADEL Thiosinaminum Trituration Tablet 3X,{'ear'}
+480,Bakson's Bouchi Oil,{'skin'}
+481,Allen Fair Touch Cream,"{'skin', 'face'}"
+482,Fourrts Douglas Cream,{'skin'}
+483,SBL Bio-Combination 13 Tablet,set()
+484,ADEL Paeonia Off Mother Tincture Q,set()
+485,SBL Causticum Dilution 1000 CH,"{'eye', 'kidney', 'nose', 'skin', 'liver', 'eyes'}"
+486,Bjain Aspidosperma Quebracho Mother Tincture Q,{'blood'}
+487,Dr Willmar Schwabe India Usnea Barbata Mother Tincture Q,"{'ear', 'eye', 'eyes'}"
+488,Similia Rhus Tox Dilution 30 CH,set()
+489,SBL Avena Sativa Dilution 30 CH,set()
+490,Allen A35 Asthma Drop,"{'nose', 'stomach'}"
+491,SBL Bryonia Alba Mother Tincture Q,set()
+492,SBL Agaricus Muscarius Dilution 200 CH,"{'skin', 'ear', 'nose', 'eye'}"
+493,Dr Willmar Schwabe India Ruta Graveolens Dilution 30 CH,"{'bone', 'eye', 'eyes'}"
+494,REPL Dr. Advice No.47 Goutidine Drop,set()
+495,Bakson B57 Memory Drop,set()
+496,Allen Anti Warts Combo (A31 + Dewarts Cream),set()
+497,Bakson's Tense Aid Tablet,set()
+498,Allen A25 Nerve And Sleep Drop,set()
+499,Allen A80 Vertigo Drop,set()
+500,Haslab Drox 10 Filarin Drop,{'blood'}
+501,New Life Calculina Syrup,set()
+502,Allen's Arnica Montana Hair Oil,"{'hair', 'blood'}"
+503,Dr Willmar Schwabe India Calciokind Tablet,set()
+504,SBL Terminalia Chebula Mother Tincture Q,"{'eye', 'liver', 'eyes', 'ear', 'blood'}"
+505,SBL Mezereum Dilution 200 CH,set()
+506,Allen Pilohip Syrup,set()
+507,Dr Batra's Hair Fall Control Shampoo,{'hair'}
+508,SBL Kali Sulphuricum Dilution 30 CH,set()
+509,Bakson B32 Lax-N-Liv Drop,{'ear'}
+510,Bakson's Baksoint 9 Cream,{'skin'}
+511,SBL Sinapis Nigra Dilution 30 CH,"{'skin', 'nose'}"
+512,Rxhomeo Mercurius Solubilis Pellets 30C,set()
+513,Rxhomeo Aloe Socotrina Pellets 200C,{'ear'}
+514,Dr Batra's Dandruff Cleansing Shampoo,{'hair'}
+515,Hapdco Gastorin Syrup,set()
+516,Similia China Dilution 30 CH,"{'liver', 'stomach'}"
+517,SBL Kali Muriaticum Biochemic Tablet 12X,"{'skin', 'ear', 'face'}"
+518,SBL Atista Radix Mother Tincture Q,"{'blood', 'stomach'}"
+519,New Life Bach Flower Sweet Chestnut 30,set()
+520,Allen A33 Fever Drop,set()
+521,ADEL Echinacea Mother Tincture Q,"{'ear', 'nose', 'stomach'}"
+522,Wheezal WL52 Ovarian Cyst Drop,set()
+523,Allen A32 Gout Drop,set()
+524,Lord's Tone Up Rejuvenator Tonic,"{'ear', 'blood'}"
+525,ADEL 32 Opsonat Drop,"{'skin', 'thyroid', 'liver', 'stomach'}"
+526,SBL Rauvolfia Serpentina Tablet 1X,set()
+527,SBL Influenzinum Dilution 30 CH,set()
+528,SBL Serum Anguillae (Eel Serum) Dilution 6 CH,{'kidney'}
+529,SBL Radium Bromatum Dilution 200 CH,{'skin'}
+530,SBL Kali Phosphoricum Biochemic Tablet 200X,"{'skin', 'blood'}"
+531,SBL Magnesia Phosphorica Biochemic Tablet 200X,"{'ear', 'hand', 'blood'}"
+532,SBL Teucrium Marum Verum Dilution 200 CH,{'nose'}
+533,Bakson's Arnica Ointment,{'ear'}
+534,Bakson's Aconitum Napellus Dilution 30 CH,"{'eye', 'eyes'}"
+535,ADEL 86 Verintex N External Drop,"{'skin', 'hair'}"
+536,Allen A59 Tumour Drop,{'skin'}
+537,ADEL Thuja Mother Tincture Q,{'skin'}
+538,Bakson B19 Colic Drop,"{'liver', 'stomach'}"
+539,Allen A42 Prostatitis Drop,set()
+540,Dr Willmar Schwabe India Zingiber Mother Tincture Q,{'ear'}
+541,Bhargava Whitigo Cream,set()
+542,Lord's Stonil Tablet,{'kidney'}
+543,ADEL 38 Apo-Spast Drop,set()
+544,Bjain Omeo Strength Drop,set()
+545,Bakson B25 Acne Drop,"{'skin', 'ear'}"
+546,Bjain Ceanothus Americanus Mother Tincture Q,"{'liver', 'blood'}"
+547,Dr. Reckeweg Ferrum Phosphoricum Biochemic Tablet 3X,"{'nose', 'blood'}"
+548,ADEL Magnesium Phosphoricum Biochemic Tablet 6X,{'stomach'}
+549,Bakson B36 Endocrine Male Drop,{'thyroid'}
+550,"Bakson's Face Scrub with Aloevera, Cucumber & Papaya",{'skin'}
+551,SBL Fel Tauri Dilution 30 CH,"{'liver', 'stomach'}"
+552,SBL Arnica Montana Dilution 3 CH,"{'eye', 'eyes'}"
+553,Lord's Mullein Oil Ear Drop,{'ear'}
+554,Allen Jaborandi Gold Oil,{'hair'}
+555,SBL Aegle Marmelos Mother Tincture Q,"{'nose', 'eye', 'eyes'}"
+556,ADEL Calendula Mother Tincture Q,set()
+557,Bhargava Rhomo Oil,set()
+558,New Life Rheumacin Drop,set()
+559,Hapdco Relaxomuv Ointment,{'bone'}
+560,SBL Teucrium Marum Verum Mother Tincture Q,{'nose'}
+561,Dr Willmar Schwabe India Ficus Religiosa Mother Tincture Q,{'blood'}
+562,Bakson's Menso Aid Syrup,set()
+563,Allen A11 Eczema Drop,"{'skin', 'ear', 'hand'}"
+564,Wheezal Diabonol Drop,set()
+565,New Life Bach Flower Rock Water 30,set()
+566,Boiron Bacillus Coli (Colibacillinum) Pellets 30C,{'stomach'}
+567,Hapdco B.Ve. Phos Children Tonic,{'liver'}
+568,Fourrts Senadryl Drop,"{'eye', 'eyes'}"
+569,Wheezal WL46 Eosinophilia Drop,"{'skin', 'ear', 'thyroid'}"
+570,Allen A34 Acne Drop,{'skin'}
+571,Wheezal De-Toxin Drop,{'stomach'}
+572,Allen's Gastrin Syrup,"{'ear', 'stomach'}"
+573,Bhargava Sinin Drop,{'nose'}
+574,Bakson's Apis Mellifica Ointment,{'skin'}
+575,ADEL Ars. Sulf Rub. Trituration Tablet 3X,"{'ear', 'eye', 'eyes', 'stomach'}"
+576,SBL Guaiacum Dilution 200 CH,set()
+577,Bjain Bryonia Alba Dilution 200 CH,{'stomach'}
+578,Bjain Omeo Prostate Drop,set()
+579,ADEL Cholesterinum Trituration Tablet 3X,{'liver'}
+580,Hapdco Muora Gel Combi Pack,set()
+581,SBL Yohimbinum Dilution 30 CH,{'blood'}
+582,SBL Sulphur Gel,{'skin'}
+583,Dr Willmar Schwabe India Aesculus Hippocastan Dilution 30 CH,"{'skin', 'bone'}"
+584,Wheezal Baby Phos Syrup,{'bone'}
+585,Bakson B64 Dermato Drop,"{'skin', 'ear', 'face'}"
+586,Bjain Omeo Heart Gold Drop,set()
+587,SBL Nux Vomica Dilution 10M CH,"{'eye', 'eyes'}"
+588,Bioforce Blooume 2  Asthmasan Drop,set()
+589,REPL Dr. Advice No.78 Piles Drop,set()
+590,ADEL Hamamelis Virginiana Mother Tincture Q,{'blood'}
+591,Allen A04 Blood Purifier Drop,"{'skin', 'blood'}"
+592,Lord's Bio-Combination 20 Tablet,{'skin'}
+593,New Life Heptolive Syrup,set()
+594,Dr Batra's Hair Fall Control Oil,set()
+595,Bakson's Super Tonic,set()
+596,ADEL Muira Puama Mother Tincture Q,set()
+597,Allen Laxocid Tablet,{'stomach'}
+598,Allen Orthotone Tablet,{'ear'}
+599,German's Spondylitis Care and Cure Drop,set()
+600,SBL Silicea Biochemic Tablet 200X,"{'skin', 'bone'}"
+601,SBL Nuphar Lutea Dilution 200 CH,"{'skin', 'ear', 'stomach'}"
+602,Bakson's B-Shape Cream,set()
+603,SBL Lycopodium Clavatum Dilution 6 CH,"{'liver', 'kidney'}"
+604,"Bakson's Sunny Herbals Face Wash Gel with Aloevera, Calendula and Tea Tree Oil","{'skin', 'face'}"
+605,Wheezal Femocordial Syrup,set()
+606,SBL Silicea Biochemic Tablet 30X,"{'skin', 'bone'}"
+607,Bakson B52 Arthralgia Drop,set()
+608,Lord's Five Phos Biocombination Tablet 12X,{'ear'}
+609,German's Tonsil Drop,set()
+610,Wheezal WL49 Warts Drop,set()
+611,Dr Willmar Schwabe India Natrum Sulphuricum Biochemic Tablet 6X,set()
+612,Bjain Omeo Allergy Tablet,"{'eye', 'nose', 'eyes'}"
+613,Allen A46 Anti Dandruff Drop,"{'hair', 'eye'}"
+614,SBL Coca Dilution Homeopathic Medicine 3 CH,{'ear'}
+615,ADEL China Officinalis Mother Tincture Q,"{'liver', 'stomach'}"
+616,Bioforce Blooume 4 Biohair Drop,set()
+617,Dr. Raj Vigoraj Oil,{'blood'}
+618,Doliosis D69 Spanish Fly Drop,set()
+619,REPL Dr. Advice No.31 Calculus Drop,set()
+620,Dr. Reckeweg Calendula Off Mother Tincture Q,set()
+621,St. George’s Foenugreek Mother Tincture Q,"{'stomach', 'kidney'}"
+622,SBL Natrum Muriaticum Biochemic Tablet 200X,"{'skin', 'ear', 'blood'}"
+623,Allen A28 Rheumatism Drop,"{'ear', 'bone'}"
+624,SBL Copaiva Officinalis Dilution 30 CH,{'nose'}
+625,Allen A76 Kalmegh Drop,set()
+626,Bakson's Biocombination 24 Tablet,{'blood'}
+627,Bakson's Mud Pack,{'skin'}
+628,Allen Vasakof Cough Syrup,set()
+629,Rxhomeo Aloe Socotrina Pellets 30C,{'ear'}
+630,Rxhomeo Carbo Vegetabilis Pellets 1M,{'skin'}
+631,Bjain Arnica Montana Globules 200 CH,set()
+632,Allen's AllenZyme Digestive Tonic,set()
+633,Bakson B44 Convulsion Drop,{'ear'}
+634,SBL Ginseng Dilution 1000 CH,set()
+635,ADEL Arnica Montana Mother Tincture Q,"{'eye', 'eyes'}"
+636,Bakson's Gastro Aid Syrup,set()
+637,Rxhomeo Hepar Sulphuris Calcareum Pellets 30C,{'skin'}
+638,Dr Batra's Herbal Hair Color Cream Brown,{'hair'}
+639,SBL Petroselinum Sativum Dilution 30 CH,"{'eyes', 'eye', 'blood'}"
+640,Bjain Omeo Piles Tablet,{'blood'}
+641,Adven Rolfia Tablet,"{'ear', 'blood'}"
+642,Similia Coculus Ind Dilution 30 CH,set()
+643,ADEL Gymnema Sylvestris Mother Tincture Q,"{'liver', 'blood'}"
+644,Medisynth Utronic Syrup,set()
+645,Bjain Belladonna Globules 30 CH,"{'skin', 'stomach'}"
+646,Dr Batra's Hair Vitalizing Serum,set()
+647,Dr Willmar Schwabe India Borax Dilution 30 CH,"{'skin', 'stomach'}"
+648,Bakson B3 Diarrhoea Drop,set()
+649,ADEL Ustilago M Mother Tincture Q,set()
+650,Dr Batra's Hair Gel Wet Look Enriched with Thuja,{'hair'}
+651,Allen A10 Dysentry Drop,set()
+652,Dr Willmar Schwabe India Anekind Globules,set()
+653,Allen A48 Spondylytis Drop,{'ear'}
+654,ADEL Aspidosperma Mother Tincture Q,{'blood'}
+655,Haslab HC 37 Caladium Complex Tablet,set()
+656,Bakson's Hair Serum,{'hair'}
+657,ADEL Scutellaria Mother Tincture Q,"{'eye', 'eyes', 'kidney'}"
+658,Dr Batra's Dandruff Cleansing Shampoo,{'hair'}
+659,Bakson's Body Oil,"{'skin', 'eyes', 'eye', 'blood'}"
+660,ADEL Titanium Metallicum Trituration Tablet 3X,set()
+661,Bakson B5 Gold Drop,{'blood'}
+662,Allen A12 Eye Care Oral Drops,set()
+663,Bjain Ginkgo Biloba Trituration Tablet 1X,"{'skin', 'ear', 'blood'}"
+664,Lord's L 164 Sciatica Drop,"{'bone', 'legs'}"
+665,ADEL Damiana Mother Tincture Q,{'stomach'}
+666,Bjain Chionanthus Virginica Mother Tincture Q,{'liver'}
+667,SBL Cicuta Virosa Dilution 200 CH,"{'skin', 'stomach'}"
+668,Allen A22 Leucorrhoea Drop,set()
+669,ADEL Chimaphila Mother Tincture Q,"{'skin', 'eye', 'eyes'}"
+670,Dr Willmar Schwabe India Abel Moschus Mother Tincture Q,{'blood'}
+671,Wheezal Dr. Farokh J. Master's Sachrol Tablet,"{'thyroid', 'hand', 'blood'}"
+672,Dr Willmar Schwabe India Eucalyptus Globulus Mother Tincture Q,"{'nose', 'blood'}"
+673,Lord's Yohimbinum Trituration Tablet 3X,{'ear'}
+674,Lord's Ylo Tablet,set()
+675,SBL Arsenic Sulphuratum Flavum Dilution 6 CH,set()
+676,Dr Willmar Schwabe India Candida Albicans Dilution 30 CH,{'bone'}
+677,SBL Aranea Diadema Dilution 200 CH,{'stomach'}
+678,Bahola Tonsilo Tablet,set()
+679,Bjain Yohimbinum Dilution 3X,{'liver'}
+680,Haslab HC 67 Homolax Tablet,{'blood'}
+681,SBL Viscum Album Mother Tincture Q,{'ear'}
+682,Medisynth Naturals Moonflower Kesar Mulethi Face Cream,{'skin'}
+683,SBL Crotalus Horridus Dilution 30 CH,"{'kidney', 'skin', 'blood', 'ear', 'stomach'}"
+684,Bio India Bach Flower Larch,set()
+685,ADEL Crataegus Mother Tincture Q,"{'skin', 'ear', 'blood'}"
+686,Dr. Reckeweg Macrotinum Dilution 200 CH,set()
+687,Lord's Fel Tauri Trituration Tablet 3X,set()
+688,Bahola Eye Bright Eye Drop,"{'nose', 'eye', 'eyes'}"
+689,Bakson B43 Hyper Hydrosis Drop,{'hand'}
+690,ADEL Avena Sat Mother Tincture Q,set()
+691,German's Rheumatic Care and Cure Drop,set()
+692,ADEL Carduus Mar. Mother Tincture Q,"{'eye', 'eyes'}"
+693,SBL Urtica Urens Ointment,set()
+694,SBL Calcarea Phosphoricum Dilution 6 CH,"{'bone', 'ear'}"
+695,Bjain Omeo Calcium Tablet,"{'bone', 'ear'}"
+696,SBL Pyrogenium Dilution 30 CH,{'kidney'}
+697,Wheezal Astharex Syrup,set()
+698,Dr. Reckeweg Acid Phosphoric Dilution 30 CH,"{'hair', 'eye', 'eyes', 'stomach'}"
+699,Bakson's Biocombination 16 Tablet,set()
+700,Bio India Bio-combination 20 Tablet,set()
+701,SBL Plumbum Metallicum Dilution 1000 CH,set()
+702,Bakson's Cream Bleach,"{'eye', 'skin', 'face', 'eyes', 'ear'}"
+703,Lord's Thyroidinum Trituration Tablet 3X,{'thyroid'}
+704,SBL Withania S (Ashwagandha) Dilution 1000 CH,{'blood'}
+705,ADEL Calcarea Fluor Biochemic Tablet 12X,"{'thyroid', 'skin', 'bone', 'ear', 'blood'}"
+706,Adven A-124 Liver & Gallbladder Drop,{'liver'}
+707,Dr. Reckeweg Tarentula Hispanica Dilution 30 CH,set()
+708,Bakson's Fevo Aid Syrup,set()
+709,SBL Acidum Sulphuricum Mother Tincture Q,"{'skin', 'ear'}"
+710,Dr Willmar Schwabe India Lobelia Inflata Mother Tincture Q,{'skin'}
+711,Hapdco Calendula Plus Lotion,{'skin'}
+712,Bakson's Natrum Muriaticum Biochemic Tablet 30X,{'blood'}
+713,ADEL Acid Fluor Dilution 200,"{'blood', 'ear', 'legs'}"
+714,SBL Arsenicum Album 0/1 LM,{'skin'}
+715,SBL Arsenicum Album 0/1 LM,{'skin'}
+716,Lord's Pediclean Cream,"{'skin', 'hand', 'eye', 'eyes'}"
+717,SBL Ustilago Mayadis Dilution 1000 CH,set()
+718,Bjain Arsenicum Bromatum Dilution 30 CH,set()
+719,Dr Willmar Schwabe India Psorinum Dilution 1000 CH,"{'skin', 'eye', 'eyes'}"
+720,ADEL Hydrangea Mother Tincture Q,set()
+721,ADEL Symphytum. Mother Tincture Q,set()
+722,SBL Arsenic Sulphuratum Flavum Dilution 200 CH,set()
+723,Dr Batra's Hair Fall Control Serum,{'hair'}
+724,ADEL Ferrum Mur Trituration Tablet 3X,"{'blood', 'kidney'}"
